@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "457485410158",
+    "firebase_url": "https://thai-anh-beauty-default-rtdb.firebaseio.com",
+    "project_id": "thai-anh-beauty",
+    "storage_bucket": "thai-anh-beauty.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457485410158:android:ce3950da0ddde287512b7f",
+        "android_client_info": {
+          "package_name": "thaianhbeautycenter.ezs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQClk5OBuB7bb6-8DdVxecBwjmghul8Ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
