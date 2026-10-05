@@ -24,7 +24,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="C:\Users\admin\AppData\Local\Temp\ic_android_black_24dp.xml" />
+                                                <entry key="imagePath" value="/private/var/folders/40/8_cxptr555lczznq6s4l1fkr0000gn/T/ic_android_black_24dp.xml" />
                                                 <entry key="opacityPercent" value="80" />
                                               </map>
                                             </option>
@@ -37,7 +37,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="D:\loading.gif" />
+                                                <entry key="imagePath" value="/D:\loading.gif" />
                                                 <entry key="opacityPercent" value="80" />
                                               </map>
                                             </option>
@@ -71,7 +71,7 @@
                                   <option name="values">
                                     <map>
                                       <entry key="assetType" value="IMAGE" />
-                                      <entry key="imageAsset" value="D:\loading.gif" />
+                                      <entry key="imageAsset" value="/D:\loading.gif" />
                                       <entry key="outputName" value="loader" />
                                       <entry key="theme" value="HOLO_DARK" />
                                       <entry key="themeColor" value="ffffff" />
@@ -90,7 +90,7 @@
                                           <PersistentState>
                                             <option name="values">
                                               <map>
-                                                <entry key="imagePath" value="C:\Users\admin\AppData\Local\Temp\ic_android_black_24dp.xml" />
+                                                <entry key="imagePath" value="/private/var/folders/40/8_cxptr555lczznq6s4l1fkr0000gn/T/ic_android_black_24dp.xml" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -102,8 +102,8 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="C:\Users\admin\Documents\Downloads\thaianhbeauty.ezs.vn\media\logo.png" />
-                                                <entry key="scalingPercent" value="62" />
+                                                <entry key="imagePath" value="$PROJECT_DIR$/../Media-App/Logo_mau.png" />
+                                                <entry key="scalingPercent" value="53" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -136,7 +136,6 @@
                                   <option name="values">
                                     <map>
                                       <entry key="backgroundAssetType" value="COLOR" />
-                                      <entry key="backgroundColor" value="ffffff" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -153,7 +152,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="C:\Users\admin\AppData\Local\Temp\ic_android_black_24dp.xml" />
+                                                <entry key="imagePath" value="/private/var/folders/40/8_cxptr555lczznq6s4l1fkr0000gn/T/ic_android_black_24dp.xml" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -165,8 +164,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="C:\Users\admin\Documents\Downloads\thaianhbeauty.ezs.vn\media\logo.png" />
-                                                <entry key="paddingPercent" value="5" />
+                                                <entry key="imagePath" value="$PROJECT_DIR$/../Media-App/Logo_mau.png" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -199,8 +197,7 @@
                                   <option name="values">
                                     <map>
                                       <entry key="assetType" value="IMAGE" />
-                                      <entry key="iconShape" value="CIRCLE" />
-                                      <entry key="imageAsset" value="C:\Users\admin\Documents\Downloads\thaianhbeauty.ezs.vn\media\logo.png" />
+                                      <entry key="imageAsset" value="$PROJECT_DIR$/../Media-App/Logo_mau.png" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -217,7 +214,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="C:\Users\admin\AppData\Local\Temp\ic_android_black_24dp.xml" />
+                                                <entry key="imagePath" value="/private/var/folders/40/8_cxptr555lczznq6s4l1fkr0000gn/T/ic_android_black_24dp.xml" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -229,8 +226,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="C:\Users\admin\Documents\Downloads\thaianhbeauty.ezs.vn\media\logo.png" />
-                                                <entry key="paddingPercent" value="-5" />
+                                                <entry key="imagePath" value="$PROJECT_DIR$/../Media-App/Logo_mau.png" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -263,7 +259,7 @@
                                   <option name="values">
                                     <map>
                                       <entry key="assetType" value="IMAGE" />
-                                      <entry key="imageAsset" value="C:\Users\admin\Documents\Downloads\thaianhbeauty.ezs.vn\media\logo.png" />
+                                      <entry key="imageAsset" value="$PROJECT_DIR$/../Media-App/Logo_mau.png" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -300,7 +296,7 @@
                                           <PersistentState>
                                             <option name="values">
                                               <map>
-                                                <entry key="imagePath" value="C:\Users\admin\AppData\Local\Temp\ic_android_black_24dp.xml" />
+                                                <entry key="imagePath" value="/private/var/folders/40/8_cxptr555lczznq6s4l1fkr0000gn/T/ic_android_black_24dp.xml" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -344,6 +340,11 @@
                                 </PersistentState>
                               </value>
                             </entry>
+                          </map>
+                        </option>
+                        <option name="values">
+                          <map>
+                            <entry key="outputIconType" value="NOTIFICATION" />
                           </map>
                         </option>
                       </PersistentState>
